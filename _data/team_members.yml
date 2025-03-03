@@ -100,4 +100,13 @@
   education1: A
   education2: B
   education3:
-  education4:
+  education:
+  
+- name: Wenrui Yu
+  photo: wenrui.jpg
+  info: Research assistant on the <a href="https://ecn-aau.github.io/projects/clever">EU KDT-JU CLEVER project</a>, started January 2025
+  email: wenyu@es.aau.dk
+  number_educ: 2
+  education1: M.Sc. in Electrical Engineering, TU Delft, the Netherlands
+  education2: B.Sc. in Electronical and Information Engineering, Sichuan University, China
+  
