@@ -1,7 +1,7 @@
 
 - name: André Oliveira Barbosa
   photo: andrebarbosa.jpg
-  info: Master student at xxx. Student helper on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">Erasmus+ FGPE++ project</a> (Nov. 2024 - Oct. 2025, supervisor S. Kosta).
+  info: Master student at Cybersecurity, AAU. Student helper on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">Erasmus+ FGPE++ project</a> (Nov. 2024 - Oct. 2025, supervisor S. Kosta).
   email: abarbo24@student.aau.dk
   number_educ: 2
   education1: A
@@ -9,5 +9,13 @@
   education3:
   education4:
 
-
+- name: Rifqi J. Indrayanto
+  photo: rifqi.jpg
+  info: Master student at ICTE, AAU. Student helper on the <a href="https://ecn-aau.github.io/projects/maresec">NFC MARESEC project</a> (Apr. 2025 - Apr. 2026, supervisor S. Kosta).
+  email: rindra24@student.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
 
