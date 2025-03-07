@@ -57,11 +57,11 @@
 
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
-  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>)
+  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - High-Performance Computing (HPC), NIC Offloading, In-Network Computing, Software Optimization
   email: jsg@es.aau.dk
   number_educ: 2
-  education1: A
-  education2: B
+  education1: MSc in High Performance Computing, University of A Coruña, Spain
+  education2: BSc in Computer Engineering, University of Almería, Spain
 
 - name: Dimosthenis Iliadis-Apostolidis
   photo: DimosthenisIliadisApostolidis.jpg
