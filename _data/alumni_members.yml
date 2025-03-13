@@ -10,6 +10,16 @@
 #  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
 #  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
+- name: Nickels Witte
+  photo: nickels.png
+  info: Master student at Erasmus Mundus DCLEAD, AAU. Student helper on the <a href="https://ecn-aau.github.io/projects/clever">CLEVER project</a> (Apr. 2023 - Apr. 2024, supervisor S. Kosta).
+  email: nwitte22@student.aau.dk
+  number_educ: 0
+  education1: A
+  education2: B
+  education3:
+  education4:
+
 - name: Nikhil Bhagwatrao Gaikwad
   photo: nikhil.jpg
   info: Postdoc on the <a href="https://ecn-aau.github.io/projects/clever">EU KDT-JU CLEVER project</a>
