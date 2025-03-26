@@ -21,14 +21,11 @@
   education4:
 
 - name: Theodoros Aslanidis
-  photo: theodoros.jpg
-  info: Guest PhD student at the ECN group during the period 1 apr. 2025 → 30 aug. 2025, working with Assoc. Prof. Sokol Kosta. PhD student at University College Dublin (Ireland) on the topic of Reinforcement Learning, Cloud Computing, ML for Systems (supervisor Asst. Prof. Dimitris Chatzopoulos).
+  photo: TheodorosAslanidis.jpg
+  info: Guest PhD student at the ECN group (1 Apr. 2025 - 30 Aug. 2025, working with Assoc. Prof. Sokol Kosta). PhD student at <a href= "https://www.ucd.ie/cs/">University College Dublin</a> on the topic of Reinforcement Learning, Cloud Computing, ML for Systems (supervisor <a href="https://people.ucd.ie/dimitris.chatzopoulos">Asst. Prof. Dimitris Chatzopoulos</a>). (<a href="https://linkedin.com/in/taslanidis">LinkedIn</a>, <a href="https://scholar.google.com/citations?user=-Yhifa4AAAAJ&hl=en">Scholar</a>)
   email: theodoros.aslanidis@ucdconnect.ie
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
+  number_educ: 1
+  education1: Integrated Master in <a href="https://www.e-ce.uth.gr/?lang=en">Electrical and Computer Engineering, University of Thessaly, Greece</a>
 
 - name: Muhammad Waleed
   photo: Waleed-1_compressed.webp
