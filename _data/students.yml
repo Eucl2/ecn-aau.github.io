@@ -9,22 +9,3 @@
 #  education4:
 
 
-- name: Asmad Bin Abdul Razzaque
-  photo: asmad.jpg
-  info: Guest PhD student at the ECN group during the period xxx-xxx, working with Prof. Cedomir Stefanovic. PhD student at Sapienza University of Rome on the topic of Network Traffic Engineering (supervisor Prof. Andrea Baiocchi).
-  email: abara@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
-
-- name: Theodoros Aslanidis
-  photo: theodoros.jpg
-  info: Guest PhD student at the ECN group during the period 1 apr. 2025 → 30 aug. 2025, working with Assoc. Prof. Sokol Kosta. PhD student at University College Dublin (Irland) on the topic of Reinforcement Learning, Cloud Computing, ML for Systems (supervisor Asst. Prof. Dimitris Chatzopoulos).
-  email: theodoros.aslanidis@ucdconnect.ie
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
