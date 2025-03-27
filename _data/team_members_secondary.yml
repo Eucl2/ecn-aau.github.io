@@ -11,11 +11,12 @@
 
 - name: Edlira Dushku
   photo: edlira.jpg
-  info: Tenure Track Assistant Professor
+  info: Tenure Track Assistant Professor in Cybersecurity. Research interests - Trusted Computing, IoT Security, Cyber Resilience.
   email: edu@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
+  number_educ: 3
+  education1: Postdoc at DTU, Denmark (2020-2022)
+  education2: PhD in Computer Science, Sapienza University of Rome, Italy (2026-2020)
+  education3: B.Sc. and M.Sc. in Computer Science, University of Tirana, Albania (2007, 2013)
 
 - name: Israel Leyva Mayorga
   photo: IsraelLeyvaMayorga.jpg
