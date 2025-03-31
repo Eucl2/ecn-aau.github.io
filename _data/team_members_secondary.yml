@@ -20,13 +20,13 @@
 
 - name: Israel Leyva Mayorga
   photo: IsraelLeyvaMayorga.jpg
-  info: TBD
+  info: Associate professor, Connectivity Section, AAU
   email: ilm@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
+  number_educ: 4
+  education1: Assistant Professor, AAU (2021 – 2024)
+  education2: Postdoc, AAU (2019 – 2021)
+  education3: PhD in Telecommunications, Universitat Politècnica de València (UPV), Spain (2015 – 2018)
+  education4: BSc in Telematics Engineering and MSc in Mobile Computing Systems, Instituto Politécnico Nacional (IPN), Mexico (2011, 2014)
 
 - name: Weifan Zhang
   photo: WeifanZhang.jpg
