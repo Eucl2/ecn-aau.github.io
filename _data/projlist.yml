@@ -57,3 +57,15 @@
     url: fgpe_plus_plus
     display: More details
   highlight: 1
+
+- title: "MARESEC - Autonomous Mapping for Surveillance of Critical Maritime Infrastructure"
+  image: logo_nfc.webp
+  description: MARESEC demonstrates real-time seabed-to-sky mapping and surveillance of Danish critical maritime infrastructures (CMI) by developing, integrating, and validating an autonomous multi-agent marine system (AM2S).
+  people: Sokol Kosta (co-PI), Cedomir Stefanovic, Edlira Dushku, Rifqi Juli Indrayanto
+  funding: NFC Pilot Program
+  budget: 1.170.000 DKK
+  duration: 01/03/2025 → 31/03/2026
+  link:
+    url: maresec
+    display: More details
+  highlight: 1
