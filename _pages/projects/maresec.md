@@ -9,7 +9,7 @@ permalink: /projects/maresec
 # MARESEC - Autonomous Mapping for Surveillance of Critical Maritime Infrastructure
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfc_logo.webp" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_dtu.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_tuco.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_teledyne.png" style="width: 210px">
