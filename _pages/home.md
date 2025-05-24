@@ -54,8 +54,8 @@ site.url }}{{ site.baseurl }}/vacancies)
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_dff.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ifd.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_msca.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tbtf.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-nfc.webp" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-tbtf.png" style="width: 170px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 150px">
 </figure>
 
 ## Collaborators
