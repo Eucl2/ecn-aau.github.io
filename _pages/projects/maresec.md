@@ -9,7 +9,7 @@ permalink: /projects/maresec
 # MARESEC - Autonomous Mapping for Surveillance of Critical Maritime Infrastructure
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_dtu.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_tuco.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_teledyne.png" style="width: 210px">
@@ -72,7 +72,7 @@ I3LUNG project will cover a timeframe of 5 years. It started on 1st June 2022 un
 | **Partners**:        | Danmarks Tekniske Universitet, UVision, Teledyne Marine, TUCO Marine                     |
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfc_logo.webp" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nfc.webp" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_dtu.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_tuco.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_teledyne.png" style="width: 210px">
