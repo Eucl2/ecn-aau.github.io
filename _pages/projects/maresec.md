@@ -61,8 +61,6 @@ cellular connectivity. As MARESEC is used to gather critical maritime infrastruc
 within AM2S and AM2S-to-cloud is essential. In addition, framework to secure data at rest in the edge devices will be 
 implemented. Finally, post-quantum algorithms will be utilized to secure communication against future quantum-based threats.
 
-I3LUNG project will cover a timeframe of 5 years. It started on 1st June 2022 until May 2027
-
 |                      |                                                                                          |
 |----------------------|------------------------------------------------------------------------------------------|
 | **People involved**: | Sokol Kosta (co-PI), Cedomir Stefanovic, Edlira Dushku, Rifqi Juli Indrayanto            |
